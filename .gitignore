@@ -31,3 +31,9 @@ node_modules/
 Thumbs.db
 desktop.ini
 ~$*
+
+# Vercel local link
+.vercel/
+
+.vercel
+.env*

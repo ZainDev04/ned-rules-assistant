@@ -1,0 +1,6 @@
+# Vercel only serves the website, which is one self-contained file
+/*
+!/ui
+/ui/*
+!/ui/NED_Rules_Assistant.html
+!/vercel.json
