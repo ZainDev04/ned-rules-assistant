@@ -1,0 +1,32 @@
+# Embedding model (477 MB). The demo downloads it again when it is missing.
+demo/models/
+# Cached dense embeddings, rebuilt on first run
+demo/dense_cache.npy
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Secrets
+.env
+*.key
+
+# Private course material (not for a public repo)
+NLP ASSIGNMENT FALL 2026.pdf
+progress.md
+report/Viva_Preparation.docx
+report/make_viva.py
+report/NLP_CCP_RAG_Report.docx
+
+# Old theme backups
+ui/*.charcoal-backup.*
+
+# Node and editor clutter
+node_modules/
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+~$*

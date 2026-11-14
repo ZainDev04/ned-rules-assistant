@@ -1,0 +1,37 @@
+{
+  "note": "Pilot test set written by the group. Each English question has a Roman Urdu version with the same meaning. 'gold' lists phrases that appear only in the correct clause(s); a retrieved clause counts as correct if it contains any gold phrase. Unanswerable questions are about things the two regulation documents do not cover.",
+  "pairs": [
+    {"id": 1, "gold": ["at least 75%"], "en": "What is the minimum attendance required to sit in the final exam?", "ru": "Final exam dene ke liye kam az kam kitni hazri chahiye?"},
+    {"id": 2, "gold": ["condon"], "en": "Can my shortage of attendance be condoned if my attendance is 72 percent?", "ru": "Meri hazri 72 percent hai, kya condonation ho sakti hai?"},
+    {"id": 3, "gold": ["CGPA of at least 2.0"], "en": "What minimum CGPA do I need to be awarded the degree?", "ru": "Degree milne ke liye kam az kam kitna CGPA chahiye?"},
+    {"id": 4, "gold": ["remain on probation"], "en": "What happens if I get less than 2.00 CGPA in the first year fall semester?", "ru": "Pehle saal ke fall semester mein CGPA 2 se kam aaye to kya hota hai?"},
+    {"id": 5, "gold": ["(21) credit hours"], "en": "What is the maximum number of credit hours I can register in one semester?", "ru": "Ek semester mein zyada se zyada kitne credit hours le sakte hain?"},
+    {"id": 6, "gold": ["maximum of three courses"], "en": "How many courses can I register in the summer session?", "ru": "Summer session mein kitne courses le sakte hain?"},
+    {"id": 7, "gold": ["Maximum seven academic years"], "en": "What is the maximum time allowed to complete a four-year degree?", "ru": "4 saal ki degree poori karne ke liye zyada se zyada kitne saal milte hain?"},
+    {"id": 8, "gold": ["60% marks for final examination"], "en": "How are marks divided between the final exam and sessional work in a theory course?", "ru": "Theory course mein final paper aur sessional ke kitne number hote hain?"},
+    {"id": 9, "gold": ["Outstanding"], "en": "What percentage of marks is needed for an A+ grade?", "ru": "A+ grade ke liye kitne percent number chahiye?"},
+    {"id": 10, "gold": ["8th week"], "en": "Until which week can I withdraw from a course?", "ru": "Course chorna ho to kis hafte tak withdraw kar sakte hain?"},
+    {"id": 11, "gold": ["Only Tuition and Examination fee will be adjusted"], "en": "If I withdraw from the semester, which fees are adjusted in the next semester?", "ru": "Semester chorne par kaun si fees agle semester mein adjust hoti hai?"},
+    {"id": 12, "gold": ["does not exceed three academic years"], "en": "For readmission after withdrawal, how long can my studies be discontinued?", "ru": "Withdrawal ke baad readmission ke liye parhai kitne saal tak band reh sakti hai?"},
+    {"id": 13, "gold": ["mobile phone"], "en": "Can I bring my mobile phone into the examination hall?", "ru": "Kya exam hall mein mobile phone le ja sakte hain?"},
+    {"id": 14, "gold": ["expelled", "debarred"], "en": "What is the punishment if a student is caught cheating with notes in the exam?", "ru": "Exam mein nakal karte hue notes ke sath pakde gaye to kya saza hai?"},
+    {"id": 15, "gold": ["an hour has elapsed"], "en": "How long must I wait before I can leave the examination hall?", "ru": "Exam hall se kitni der baad bahar ja sakte hain?"},
+    {"id": 16, "gold": ["red or green ink"], "en": "Am I allowed to use red ink in the answer book?", "ru": "Kya answer book mein red ink use kar sakte hain?"},
+    {"id": 17, "gold": ["within 15 days from the date of announcement"], "en": "Within how many days must I apply for scrutiny of my result?", "ru": "Result recheck karwane ke liye kitne din ke andar apply karna hai?"},
+    {"id": 18, "gold": ["3.8 CGPA"], "en": "What CGPA is needed to pass with distinction?", "ru": "Distinction ke sath degree ke liye kitna CGPA chahiye?"},
+    {"id": 19, "gold": ["Gold Medal"], "en": "Who is awarded the gold medal?", "ru": "Gold medal kis ko milta hai?"},
+    {"id": 20, "gold": ["basis of CGPA obtained by the applicants in First Year"], "en": "How is merit decided for change of discipline?", "ru": "Discipline badalne ke liye merit kaise banta hai?"},
+    {"id": 21, "gold": ["at least 60% marks in aggregate"], "en": "What percentage in HSC is required for admission to BS Computer Science?", "ru": "BS Computer Science mein dakhla ke liye inter mein kitne percent chahiye?"},
+    {"id": 22, "gold": ["Entry Test of this University with"], "en": "What score is required in the pre-admission entry test?", "ru": "Entry test mein kitne percent number se pass hona zaroori hai?"},
+    {"id": 23, "gold": ["better grade"], "en": "If I repeat a course to improve my grade, which grade is counted?", "ru": "Course dobara parhne par kaun sa grade count hota hai?"},
+    {"id": 24, "gold": ["first three weeks after commencement of classes"], "en": "Until when is course registration allowed in a semester?", "ru": "Semester mein registration kab tak ho sakti hai?"},
+    {"id": 25, "gold": ["minimum of 80% courses"], "en": "Who is allowed to take the Final Year Design Project?", "ru": "FYDP lene ke liye kitne courses pass hone chahiye?"}
+  ],
+  "unanswerable": [
+    {"id": "U1", "en": "What is the hostel fee for boys?", "ru": "Boys hostel ki fees kitni hai?"},
+    {"id": "U2", "en": "When will the Fall 2026 semester start?", "ru": "Fall 2026 semester kab shuru hoga?"},
+    {"id": "U3", "en": "Who is the chairman of the CSIT department?", "ru": "CSIT department ka chairman kaun hai?"},
+    {"id": "U4", "en": "Is there a university bus service for students?", "ru": "Kya students ke liye university bus service hai?"},
+    {"id": "U5", "en": "How much is the tuition fee for BS Artificial Intelligence?", "ru": "BS Artificial Intelligence ki tuition fees kitni hai?"}
+  ]
+}

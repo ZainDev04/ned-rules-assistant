@@ -1,0 +1,6 @@
+pymupdf
+numpy
+scikit-learn
+streamlit
+anthropic
+sentence-transformers
