@@ -8,7 +8,9 @@ This is our course research project for Natural Language Processing (CCP), BS Ar
 
 ## Try it
 
-Open `ui/NED_Rules_Assistant.html` in Chrome or Edge. It is one file and runs offline, with no Python and no server. The page has the assistant, a step-by-step view of the RAG pipeline, the research questions, the pilot results and a guided tour.
+The website is live at https://ned-rules-assistant.vercel.app
+
+To use it offline, open `ui/NED_Rules_Assistant.html` in Chrome or Edge. It is one file and needs no Python or server. The page has the assistant, a step-by-step view of the RAG pipeline, the research questions, the pilot results and a guided tour.
 
 ![A Roman Urdu question answered with cited clauses](docs/assistant.png)
 
